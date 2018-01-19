@@ -5,5 +5,5 @@ Designed and implemented a fictional multi-page online dating site for desperate
 
 #### Technologies: HTML, CSS, PHP.
 
-#### Link: (NerdLuv)[https://nerdluv.herokuapp.com]
+#### Link: [NerdLuv](https://nerdluv.herokuapp.com)
 
